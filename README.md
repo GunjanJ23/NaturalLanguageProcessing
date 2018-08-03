@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-Three main algorithms were implemented and following results were found:
+*Three main algorithms were implemented and following results were found:*
 
 Hidden Markov Model part of speech tagger for English and Chinese was developed and attained an accuracy of 83% and 88%.
 
